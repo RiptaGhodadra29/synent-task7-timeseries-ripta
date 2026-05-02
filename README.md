@@ -75,4 +75,4 @@ Time series analysis helps understand stock behavior over time and supports bett
 ---
 
 ## 🔗 GitHub Repository
-(Add your repository link here)
+https://github.com/RiptaGhodadra29/synent-task7-timeseries-ripta.git
