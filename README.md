@@ -70,7 +70,7 @@ Time series analysis helps understand stock behavior over time and supports bett
 ---
 
 ## 🎥 Demo Video
-(Add your video link here)
+https://drive.google.com/file/d/1UNF1cEnQLspa7_dS34JSjXoF3xK8hZdC/view?usp=drive_link
 
 ---
 
